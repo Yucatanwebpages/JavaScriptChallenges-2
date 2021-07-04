@@ -13,7 +13,7 @@ const johnHeight = 1.95;
 const markBMI = markWeight / markHeight ** 2;
 const johnBMI = johnWeight / johnHeight ** 2;
 
-// If statment
+// If / else statment
 
 if (markBMI > johnBMI) {
     console.log(`Mark's BMI ${markBMI} is greater than John's BMI ${johnWeight}  `)
