@@ -21,5 +21,5 @@ if (markBMI > johnBMI) {
     console.log(`John's BMI ${johnBMI} is greater than Mark's BMI ${markBMI}`)
 }
 
-// Display in the console 
+
 
